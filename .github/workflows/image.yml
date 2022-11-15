@@ -8,7 +8,7 @@ on:
 
 env:
   REGISTRY: "registry.digitalocean.com/dinesh-new-droplet"
-  IMAGE_NAME: "New-Droplet"
+  IMAGE_NAME: "new-droplet"
 
 jobs:
   build_and_push:
