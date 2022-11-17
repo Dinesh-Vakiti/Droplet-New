@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  REGISTRY: "registry.digitalocean.com/new-docker-image"
+  REGISTRY: "registry.digitalocean.com/new-droplet"
   IMAGE_NAME: "droplet-image"
 
 jobs:
